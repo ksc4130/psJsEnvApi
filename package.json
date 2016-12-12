@@ -1,0 +1,22 @@
+{
+  "name": "node-api-for-psjsenv",
+  "version": "1.0.0",
+  "description": "API built in Node and Express hosted on Heroku for psJsEnv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksc4130/psJsEnvApi"
+  },
+  "author": "Kyle Curren",
+  "license": "MIT"
+}

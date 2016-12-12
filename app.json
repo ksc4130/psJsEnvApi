@@ -1,0 +1,10 @@
+{
+    "name": "Node API for psJsEnv",
+    "description": "API built in Node and Express hosted on Heroku for psJsEnv",
+    "repository": "https://github.com/ksc4130/psJsEnvApi",
+    "keywords": [
+        "node",
+        "express",
+        "static"
+    ]
+}
